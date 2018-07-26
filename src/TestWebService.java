@@ -7,7 +7,7 @@ public class TestWebService {
 	}
 	
 	public int multiplyNumbers(int a, int b) {
-		return a*b;
+		return a * b;
 	}
 	
 	public int divideNum(int numerator, int denominator) {
