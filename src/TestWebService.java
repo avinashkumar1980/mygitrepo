@@ -13,4 +13,8 @@ public class TestWebService {
 	public int divideNum(int numerator, int denominator) {
 		return numerator/denominator;
 	}
+	
+	public String toString() {
+		return this.toString();
+	}
 }
