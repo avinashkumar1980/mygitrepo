@@ -15,6 +15,6 @@ public class TestWebService {
 	}
 	
 	public String toString() {
-		return this.toString()+"";
+		return this.toString();
 	}
 }
